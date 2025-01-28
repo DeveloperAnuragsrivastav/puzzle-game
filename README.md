@@ -45,9 +45,9 @@ puzzle-game-matching/
 ---
 
 ## 🖼️ Game Preview
-![Screenshot (133)](https://github.com/user-attachments/assets/a5efc429-2edf-4bfd-92ab-45ad8e2e28be)
-![Screenshot (131)](https://github.com/user-attachments/assets/134e4a22-cea5-44c0-a1f3-aacf3af2d5d4)
 
+![Screenshot (134)](https://github.com/user-attachments/assets/8ce9ea6c-33cc-484a-a473-7310dfbd9810)
+![Screenshot (135)](https://github.com/user-attachments/assets/83838064-ea93-4520-9d5f-e475a60fe1f6)
 
 ---
 
